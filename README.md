@@ -10,3 +10,7 @@ This code consists of three parts:
 1. Creating a bot that processes the `/start` command.
 2. Creating an invoice and sending it to the user.
 3. Processing payment and completing an action, as well as sending a notification to the user about successful payment.
+
+---
+
+[![image](https://github.com/Sagleft/Sagleft/raw/master/sgl_banner_en.png)](https://t.me/+dVOFqtn-VQFjMmFi)
